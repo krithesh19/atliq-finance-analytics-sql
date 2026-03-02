@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Designed and implemented an end-to-end finance analytics reporting system using SQL to transform raw transactional sales data (~1.4M+ records) into structured, business-ready insights.
+Designed and implemented an end-to-end finance analytics reporting system using SQL to **transform raw transactional sales data (~1.4M+ records) into structured, business-ready insights**.
 
 The system focuses on revenue transformation, discount impact analysis, market performance tracking, revenue concentration evaluation, and large-scale query performance optimization.
 
